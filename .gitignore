@@ -1,0 +1,19 @@
+# Temporary 
+/.github/
+__init__.py
+
+ 
+
+# Cache
+__pycache__/
+.pytest_cache/
+ 
+
+# editors
+.vscode/
+ 
+# Test
+/tests/
+
+
+ 
