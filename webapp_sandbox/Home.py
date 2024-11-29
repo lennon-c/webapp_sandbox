@@ -8,7 +8,10 @@ def main():
 
     st.title("Sandbox Using Streamlit") 
     # st.sidebar.title("Pages")
-    st.markdown("Just a set of personal test exploring the Streamlit library.")
+    st.markdown("Just a set of personal test exploring the Streamlit library. ")
+
+    """
+    Code in my GitHub: [webapp_sandbox](https://github.com/lennon-c/webapp_sandbox)"""
   
 if __name__ == '__main__':
     main()
