@@ -47,7 +47,7 @@ def main():
         
         Data source: https://archive.ics.uci.edu/dataset/73/mushroom
         """
-        data = pd.read_csv(r"webapp_sandbox\mushrooms.csv")
+        data = pd.read_csv(r"webapp_sandbox/mushrooms.csv")
         label=LabelEncoder()
         for col in data.columns:
             data[col] = label.fit_transform(data[col])
