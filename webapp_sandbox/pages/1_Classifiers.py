@@ -36,7 +36,7 @@ def main():
         3. `@st.cache(persist=True)` (deprecated) was replaced **with** `@st.cache_data`.
         4. Grouped some common functionalities.
 
-        Modified code on [GitHub - webapp_sandbox](https://github.com/lennon-c/webapp_sandbox). Source code : [1_Classifiers.py](https://github.com/lennon-c/webapp_sandbox/blob/900b3c457e74b672be5d7aa18cdaeb3dc82683b3/webapp_sandbox/pages/1_Classifiers.py)
+        Modified code on [GitHub - webapp_sandbox](https://github.com/lennon-c/webapp_sandbox). Code : [1_Classifiers.py](https://github.com/lennon-c/webapp_sandbox/blob/900b3c457e74b672be5d7aa18cdaeb3dc82683b3/webapp_sandbox/pages/1_Classifiers.py)
         """
 
     # @st.cache(persist=True) # deprecated 
