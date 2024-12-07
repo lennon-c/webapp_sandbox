@@ -147,8 +147,9 @@ This application extends the original project to ensure:
     - **App Logic**: For managing the overall workflow and display.
 - **Mask for Word Cloud**.
 
-Modified code on [GitHub - webapp_sandbox](https://github.com/lennon-c/webapp_sandbox). Code : [2_Dashboard.py](https://github.com/lennon-c/webapp_sandbox/blob/900b3c457e74b672be5d7aa18cdaeb3dc82683b3/webapp_sandbox/pages/2_Dashboard.py)
+Modified code on [GitHub - webapp_sandbox](https://github.com/lennon-c/webapp_sandbox). Code : [2_Dashboard.py](https://github.com/lennon-c/webapp_sandbox/blob/434c8ddb4f996d0447835e0d7273a56a6f5e01a5/webapp_sandbox/pages/2_Dashboard.py)
     """
+ 
 
     def select_plot(self, key='1'):
         return st.selectbox('Visualization:', 
